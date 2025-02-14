@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#"><img src="https://github.com/user-attachments/assets/92eb5232-171f-4a46-82dc-f9d9e1c26559"></a>
   <br></br>
-  Index publics is a ~~legal~~ illegal mod for Gorilla Tag adding a panel to the game with a variety of different mods. This is a mod, not a cheat, meaning it will only work in modded lobbies, compatible with Utilla or Newtilla. This is also not considered a mod menu, but a mod toggler/panel, like KyleTheScientist's 'Bark' or Graze's 'Grate'.
+  Index publics is a illegal mod for Gorilla Tag adding a panel to the game with a variety of different mods. This is a cheat, meaning it will work in public lobbies, compatible with Utilla or Newtilla. This is also not considered a mod menu, but a mod toggler/panel, like KyleTheScientist's 'Bark' or Graze's 'Grate'.
 </p>
 
 <p align="center">
